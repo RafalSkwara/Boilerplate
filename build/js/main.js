@@ -1,1 +1,1 @@
-$(document).ready(function(){});
+$(document).ready(function(){$("#myCarousel").carousel({interval:3e3,pause:!1})});
